@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wh1sper</h1>
 <h3 align="center">MrWh1sper on Twitter</h3>
 
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twittermrwh1sper&label=Profile%20views&color=0e75b6&style=flat" alt="twittermrwh1sper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twittermrwh1sper" alt="twittermrwh1sper" /></a> </p>
